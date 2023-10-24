@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Designing and Web Development**
 
-- 📫 How to reach me **utsavs.designer@gmail.com**
+- 📫 How to reach me **utsavsinghal26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
