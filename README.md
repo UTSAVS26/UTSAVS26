@@ -39,8 +39,9 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=cpp" alt="cpp"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=c" alt="c"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=java" alt="java"/></a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=rust" alt="rust"/></a>
+ <!-- <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=rust" alt="rust"/></a>
   <a href="https://www.w3schools.com/r/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=r" alt="r"/></a>
+  -->
 </p>
 <hr>
 <h2 align="left">Web Development</h2>
