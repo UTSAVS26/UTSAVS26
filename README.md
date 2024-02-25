@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=appveyor" alt="Download CV" style="font-size: 18px; border-radius: 8px;">
   </a>
 </div>
---->
+-->
 
 - 🌱 I’m currently learning **Machine Learning and Neural Networks**
 
@@ -33,49 +33,86 @@
 </p>
 
 <hr>
-<h2 align="left">Programming Languages</h2>
-<p>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=python" alt="python"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=cpp" alt="cpp"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=c" alt="c"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=java" alt="java"/></a>
- <!-- <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=rust" alt="rust"/></a>
-  <a href="https://www.w3schools.com/r/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=r" alt="r"/></a>
-  -->
-</p>
+
+<h2>Skills</h2>
+<h3>
+<ul>
+  <li>🤖 Machine Learning</li>
+  <li>🧠 Deep Learning</li>
+  <li>💬 Natural Language Processing</li>
+  <li>👁️‍🗨️ Computer Vision</li>
+  <li>🚨 Anomaly Detection</li>
+  <li>🤖🧠💬👁️‍🗨️🚨 Artificial Intelligence</li>
+</ul>
+</h3>
+
 <hr>
-<h2 align="left">Web Development</h2>
-<p>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=html" alt="html"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=css" alt="css"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=js" alt="js"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=django" alt="django"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=flask" alt="flask"/></a>
-</p>
-<hr>
-<h2 align="left">Database</h2>
-<p>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=mysql" alt="mysql"/></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=sqlite" alt="sqlite"/></a>
-</p>
-<hr>
-<h2 align="left">Machine Learning</h2>
-<p>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=tensorflow" alt="tensorflow"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=pytorch" alt="pytorch"/></a>
-</p>
-<hr>
-<h2 align="left">Design and Graphics</h2>
-<p>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=figma" alt="figma"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=photoshop" alt="photoshop"/></a>
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=premiere" alt="premierepro"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=illustrator" alt="illustrator"/></a>
-</p>
-<hr>
-<h2 align="left">Tools</h2>
-<p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=git" alt="git"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=vscode" alt="vscode"/></a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=postman" alt="postman"/></a>
-</p>
+
+<table>
+  <tr>
+    <td valign="top">
+      <h2 align="center">Programming Languages</h2>
+      <p align="center">
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=python" alt="python"/></a>
+        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=cpp" alt="cpp"/></a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=c" alt="c"/></a>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=java" alt="java"/></a>
+      </p>
+    </td>
+    <td valign="top">
+      <h2 align="center">Web Development</h2>
+      <p align="center">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=html" alt="html"/></a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=css" alt="css"/></a>
+        <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=js" alt="js"/></a>
+      </p>
+    </td>
+    <td valign="top">
+      <h2 align="center">Web Development Frameworks</h2>
+      <p align="center">
+        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=django" alt="django"/></a>
+        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=flask" alt="flask"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h2 align="center">Databases</h2>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=js" alt="js"/></a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=mysql" alt="mysql"/></a>
+        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=sqlite" alt="sqlite"/></a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=mongodb" alt="mongodb"/></a>
+      </p>
+    </td>
+    <td valign="top">
+      <h2 align="center">Machine Learning</h2>
+      <p align="center">
+        <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=tensorflow" alt="tensorflow"/></a>
+        <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=pytorch" alt="pytorch"/></a>
+      </p>
+    </td>
+    <td valign="top">
+      <h2 align="center">Design and Graphics</h2>
+      <p align="center">
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=figma" alt="figma"/></a>
+        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=photoshop" alt="photoshop"/></a>
+        <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=premiere" alt="premierepro"/></a>
+        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=illustrator" alt="illustrator"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td valign="top">
+      <h2 align="center">Tools</h2>
+      <p align="center">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=git" alt="git"/></a>
+        <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=github" alt="github"/></a>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=vscode" alt="vscode"/></a>
+        <a href="https://postman.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=postman" alt="postman"/></a>
+      </p>
+    </td>
+    <td></td>
+  </tr>
+</table>
