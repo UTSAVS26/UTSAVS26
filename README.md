@@ -64,7 +64,7 @@
       <p align="center">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=html" alt="html"/></a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=css" alt="css"/></a>
-        <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=js" alt="js"/></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=js" alt="js"/></a>
       </p>
     </td>
     <td valign="top">
@@ -79,7 +79,6 @@
     <td valign="top">
       <h2 align="center">Databases</h2>
       <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=js" alt="js"/></a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=mysql" alt="mysql"/></a>
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=sqlite" alt="sqlite"/></a>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skills.thijs.gg/icons?i=mongodb" alt="mongodb"/></a>
