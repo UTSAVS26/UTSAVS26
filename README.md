@@ -9,7 +9,7 @@
 </table>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=utsavs26&label=Profile%20views&color=0e75b6&style=flat" alt="utsavs26" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsavs26" alt="utsavs26" /></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsavs26" alt="utsavs26" /></a></p>
 
 <div align="center">
   <a href="https://drive.google.com/file/d/15JdP1J0ZR6tze7Fm1RqSd-3dCiKyls44/view?usp=drive_link">
@@ -24,8 +24,8 @@
 - 📫 How to reach me **utsavsinghal26@gmail.com**
 <hr>
 
-<h2 align="left">Connect with me:</h2>
-<p>
+<h2 align="center">Connect with me:</h2>
+<p align="center">
   <a href="https://www.linkedin.com/in/utsav-singhal-6536a1256" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/UTSAVS26" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="mailto:utsavsinghal26@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -33,7 +33,7 @@
 
 <hr>
 
-<h2>Skills</h2>
+<h2 align="center">Skills</h2>
 <h3>
 <ul>
   <li>🤖 Machine Learning</li>
@@ -47,7 +47,7 @@
 
 <hr>
 
-<table>
+<table align="center"
   <tr>
     <td valign="top">
       <h2 align="center">Programming Languages</h2>
@@ -121,5 +121,12 @@
     <td></td>
   </tr>
 </table>
+
+###
+<h2 align="center">Github Stats</h2>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=UTSAVS26&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UTSAVS26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <img src="https://raw.githubusercontent.com/UTSAVS26/UTSAVS26/output/snake.svg" alt="Snake animation" />
