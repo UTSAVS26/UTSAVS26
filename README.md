@@ -12,7 +12,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsavs26&theme=radical" alt="utsavs26" /></a></p>
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1k5ZLFpvz2-4vPzWKKTP391NVcwgRxfcC/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1k5ZLFpvz2-4vPzWKKTP391NVcwgRxfcC/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=appveyor" alt="Download CV" style="font-size: 18px; border-radius: 8px;">
   </a>
 </div>
