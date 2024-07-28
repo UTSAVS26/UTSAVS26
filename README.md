@@ -46,7 +46,7 @@
 
 <hr>
 
-<h2>Skills</h2
+<h2>Skills</h2>
 <p>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="55" height="55"/></a>
@@ -78,6 +78,8 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="github" width="55" height="55"/></a>
     <a href="https://spacy.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="55" height="55"/></a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="opencv" width="55" height="55"/></a>
+</p>
+
 ###
 <h2 align="center">Github Stats</h2>
   <div align="center">
