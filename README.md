@@ -93,4 +93,9 @@
   </p>
 </div>
 
+# 📊 LeetCode Stats:
+![](https://leetcard.jacoblin.cool/UTSAVS26?ext=heatmap)
+---
+[![](https://visitcount.itsvg.in/api?id=UTSAVS26&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <img src="https://raw.githubusercontent.com/UTSAVS26/UTSAVS26/output/snake.svg" alt="Snake animation" />
