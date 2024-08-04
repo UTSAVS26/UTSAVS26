@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Utsav Singhal</h1>
-<h3 align="center">A passionate AIML & Robotic Engineer from India</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&pause=600&color=FFA500&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+I'm+Utsav+Singhal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=600&color=FFA500&center=true&vCenter=true&width=2000&height=200&lines=AI+%2F+ML+Specialist;Data+Science+Enthusiast;Machine+Learning+Engineer;Innovative+Solution+Creator)](https://git.io/typing-svg)
+
+<p align='center'>
+  <b><i>Let's connect! Find me on the web.</i></b>
+</p>
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/utsavsinghal2604/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-Click-%230e75b6" alt="LinkedIn" /></a>
+  <a href="mailto:utsavsinghal26@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/Gmail-Click-%230e75b6" alt="Gmail" /></a>
+  <a href="https://utsavs26.tech/" target="_blank"><img height="30" src="https://img.shields.io/badge/Website-Click-%230e75b6" alt="Website" /></a>
+</p>
 
 <table align="center">
   <tr>
@@ -7,30 +17,23 @@
     <td><img src="https://profile-counter.glitch.me/UTSAVS26/count.svg" alt="vistor count" height="30" width="224" /></td>
   </tr>
 </table>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=utsavs26&label=Profile%20views&color=0e75b6&style=flat" alt="utsavs26" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsavs26&theme=radical" alt="utsavs26" /></a></p>
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<div align="center">
-  <a href="https://drive.google.com/file/d/1k5ZLFpvz2-4vPzWKKTP391NVcwgRxfcC/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=appveyor" alt="Download CV" style="font-size: 18px; border-radius: 8px;">
-  </a>
-</div>
+## :zap: About Me 👦
+- 🌱 I’m currently deepening my expertise in **Artificial Intelligence**, **Machine Learning**, and **Neural Networks**, with a focus on advanced algorithms, model optimization, and innovative applications.
 
-- 🌱 I’m currently learning **Machine Learning and Neural Networks**
+- 🔍 My recent projects involve **Generative Adversarial Networks (GANs)** for image augmentation, **Convolutional Neural Networks (CNNs)** for image recognition, and **end-to-end machine learning pipelines** for scalable solutions.
 
-- 💬 Ask me about **Artificial Intelligence, Machine Learning and Neural Networks**
+- 📈 I have a strong foundation in **data science and analytics**, including data wrangling, visualization, and leveraging libraries such as **Pandas, NumPy, and Scikit-learn** to derive actionable insights.
 
-- 📫 How to reach me **utsavsinghal26@gmail.com**
-<hr>
+- 💬 Ask me about **AI/ML algorithms**, **data science techniques**, **model optimization**, **MLOps**, **computer vision**, and **natural language processing**. I’m also eager to discuss **real-world applications** of AI and how to drive impactful solutions.
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/utsavsinghal2604/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:utsavsinghal26@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+- 🌍 I actively contribute to the AI/ML community through **workshops**, **knowledge sharing**, and **collaborative projects**, aiming to foster learning and innovation.
 
-<hr>
+- 📫 How to reach me: **[utsavsinghal26@gmail.com](mailto:utsavsinghal26@gmail.com)**
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <h2 align="center">Skills</h2>
 <h3>
@@ -80,20 +83,77 @@
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="opencv" width="55" height="55"/></a>
 </p>
 
-###
-<h2 align="center">Github Stats</h2>
-  <div align="center">
-    <p align="center">
-    <img width="800" height="220" src="https://streak-stats.demolab.com?user=UTSAVS26&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-  </p>
-  
-  <p align="center">
-    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=UTSAVS26&show_icons=true&theme=vision-friendly-dark">
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTSAVS26&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-  </p>
+## :zap: My GitHub-Quine Stats 🖤
+<table align="center">
+  <tr align="center">
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=UTSAVS26">
+        <img align="center" src="https://stats.quine.sh/Avdhesh/github?theme=dark" height="280em" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=UTSAVS26">
+        <img align="center" src="https://stats.quine.sh/Avdhesh/dependencies?theme=dark" height="280em" alt="GitHub Dependencies" />
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=UTSAVS26">
+        <img align="center" src="https://stats.quine.sh/Avdhesh/topics-over-time?theme=dark" height="270em" alt="GitHub Topics Over Time" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=UTSAVS26">
+        <img align="center" src="https://stats.quine.sh/Avdhesh/languages-over-time?theme=dark" height="270em" alt="GitHub Languages Over Time" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+## :zap: My GitHub Stats 📊
+<div align="center">
+  <a href="https://github.com/UTSAVS26">
+    <!-- Trophies -->
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=UTSAVS26&theme=onestar&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" /> <br />
+    <!-- Streak Counter -->
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UTSAVS26&theme=nightowl&hide_border=true&fire=DD2727" height="250em" alt="Streak Counter" /> <br />
+    <!-- Most Used Languages -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UTSAVS26&color=0e75b6&style=flat&theme=radical&hide_border=true" height="320em" alt="Most used languages" />
+    <!-- Contributor Stats -->
+    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=UTSAVS26&limit=10&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="320em" alt="Contributor Stats" /> <br />
+    <!-- Stats -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UTSAVS26&theme=2077" height="210em" alt="Stats" />
+    <!-- Top languages by commit -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UTSAVS26&theme=2077" height="210em" alt="Top languages by commit" />
+    <!-- Top languages by repo -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UTSAVS26&theme=2077" height="210em" alt="Top languages by repo" />
+    <!-- Histogram of Commits -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UTSAVS26&theme=2077" height="210em" alt="Histogram of Commits" />
+    <!-- Graph of Commits -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UTSAVS26&theme=2077" height="210em" alt="Graph of Commits" />
+  </a>
 </div>
 
-# 📊 LeetCode Stats:
-![](https://leetcard.jacoblin.cool/UTSAVS26?ext=heatmap)
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<img src="https://raw.githubusercontent.com/UTSAVS26/UTSAVS26/output/snake.svg" alt="Snake animation" />
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+## :zap: My LeetCode Stats 📊
+<div align="center">
+  <a href="https://leetcode.com/UTSAVS26">
+    <!-- LeetCode Stats -->
+    <img align="center" src="https://leetcard.jacoblin.cool/UTSAVS26?ext=heatmap" height="300em" alt="LeetCode Stats" />
+  </a>
+</div>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<div align="center">
+  <h3 align="center">Show some &nbsp;❤️&nbsp; by &nbsp;🌟&nbsp; some of the repositories!</h3>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</div>
