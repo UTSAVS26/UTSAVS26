@@ -88,24 +88,24 @@
   <tr align="center">
     <td align="center">
       <a href="https://quine.sh?utm_source=widgets&utm_campaign=UTSAVS26">
-        <img align="center" src="https://stats.quine.sh/Avdhesh/github?theme=dark" height="280em" alt="GitHub Stats" />
+        <img align="center" src="https://stats.quira.sh/UtsavSinghal26/github?theme=dark" height="280em" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center">
       <a href="https://quine.sh?utm_source=widgets&utm_campaign=UTSAVS26">
-        <img align="center" src="https://stats.quine.sh/Avdhesh/dependencies?theme=dark" height="280em" alt="GitHub Dependencies" />
+        <img align="center" src="https://stats.quine.sh/UtsavSinghal26/dependencies?theme=dark" height="280em" alt="GitHub Dependencies" />
       </a>
     </td>
   </tr>
   <tr align="center">
     <td align="center">
       <a href="https://quine.sh?utm_source=widgets&utm_campaign=UTSAVS26">
-        <img align="center" src="https://stats.quine.sh/Avdhesh/topics-over-time?theme=dark" height="270em" alt="GitHub Topics Over Time" />
+        <img align="center" src="https://stats.quine.sh/UtsavSinghal26/topics-over-time?theme=dark" height="270em" alt="GitHub Topics Over Time" />
       </a>
     </td>
     <td align="center">
       <a href="https://quine.sh?utm_source=widgets&utm_campaign=UTSAVS26">
-        <img align="center" src="https://stats.quine.sh/Avdhesh/languages-over-time?theme=dark" height="270em" alt="GitHub Languages Over Time" />
+        <img align="center" src="https://stats.quine.sh/UtsavSinghal26/languages-over-time?theme=dark" height="270em" alt="GitHub Languages Over Time" />
       </a>
     </td>
   </tr>
