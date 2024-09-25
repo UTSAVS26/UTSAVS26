@@ -49,6 +49,30 @@
 
 <hr>
 
+## :globe_with_meridians: Open Source Contributions 🌟
+
+<table align="center">
+  <tr>
+    <th>Role</th>
+    <th>Project</th>
+    <th>Badge</th>
+  </tr>
+  <tr>
+    <td>🚀 Contributor</td>
+    <td><a href="#">SSOC (Social Summer of Code) Season 3</a>: Top contributor in the </a><strong><a href="https://github.com/UTSAVS26/AI-Code">AI-Code</a></strong> repository, contributing to AI/ML-related projects and mentoring new participants in their open-source journey.</td>
+    <td><img src="https://github.com/user-attachments/assets/d6a1cf2c-d0d5-4ea2-8639-81a755ae1ec7" alt="SSOC Badge" width="150" height="100"/></td>
+  </tr>
+  <tr>
+    <td>👨‍💻 Project Admin</td>
+    <td><a href="https://gs-wob.vercel.app/wob">WoB'24 (Winter of Blockchain)</a>: Leading and maintaining the <strong><a href="https://github.com/UTSAVS26/PyVerse">PyVerse</a></strong> project, managing contributors, and building innovative blockchain-based web solutions for decentralized applications.</td>
+    <td><img src="https://github.com/user-attachments/assets/970b3033-e6cf-4b01-b93b-b9205f9e73f2" alt="WoB'24 Badge" width="150" height="100"/></td>
+  </tr>
+</table>
+
+[![An image of @utsavs26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utsavs26)](https://holopin.io/@utsavs26)
+
+<br>
+
 <h2>Skills</h2>
 <p>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></a>
