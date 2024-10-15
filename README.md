@@ -67,6 +67,10 @@
     <td><a href="https://gs-wob.vercel.app/wob">WoB'24 (Winter of Blockchain)</a>: Leading and maintaining the <strong><a href="https://github.com/UTSAVS26/PyVerse">PyVerse</a></strong> project, managing contributors, and building innovative blockchain-based web solutions for decentralized applications.</td>
     <td><img src="https://github.com/user-attachments/assets/970b3033-e6cf-4b01-b93b-b9205f9e73f2" alt="WoB'24 Badge" width="150" height="100"/></td>
   </tr>
+  <tr>
+    <td>👨‍💻 Project Admin</td>
+    <td><a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code</a>: Leading and maintaining the <strong><a href="https://github.com/UTSAVS26/PyVerse">PyVerse</a></strong> project and <strong><a href="https://github.com/UTSAVS26/PySnippets">PySnippets</a></strong> project, managing contributors, and building innovative blockchain-based web solutions for decentralized applications.</td>
+  </tr>
 </table>
 
 [![An image of @utsavs26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utsavs26)](https://holopin.io/@utsavs26)
