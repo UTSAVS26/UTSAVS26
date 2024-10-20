@@ -117,6 +117,8 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="55" height="55"/></a>
 </p>
 
+![image](https://github.com/user-attachments/assets/17814c25-e1f7-4d58-b0b1-5fa8528c2485)
+
 ## :zap: My GitHub-Quine Stats 🖤
 <table align="center">
   <tr align="center">
@@ -144,6 +146,12 @@
     </td>
   </tr>
 </table>
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
+
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/UTSAVS26?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true">
+</div>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
