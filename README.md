@@ -11,6 +11,8 @@
   <a href="https://utsavs26.tech/" target="_blank"><img height="30" src="https://img.shields.io/badge/Website-Click-%230e75b6" alt="Website" /></a>
 </p>
 
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FUtsavS265ade9.png?alt=media)
+
 <table align="center">
   <tr>
     <td>You are visitor</td>
@@ -184,16 +186,6 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
-## :zap: My LeetCode Stats 📊
-<div align="center">
-  <a href="https://leetcode.com/UTSAVS26">
-    <!-- LeetCode Stats -->
-    <img align="center" src="https://leetcard.jacoblin.cool/UTSAVS26?ext=heatmap" height="300em" alt="LeetCode Stats" />
-  </a>
-</div>
-
-<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
   <h3 align="center">Show some &nbsp;❤️&nbsp; by &nbsp;🌟&nbsp; some of the repositories!</h3>
