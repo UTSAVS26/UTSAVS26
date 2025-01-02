@@ -11,8 +11,6 @@
   <a href="https://utsavs26.tech/" target="_blank"><img height="30" src="https://img.shields.io/badge/Website-Click-%230e75b6" alt="Website" /></a>
 </p>
 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FUtsavS265ade9.png?alt=media)
-
 <table align="center">
   <tr>
     <td>You are visitor</td>
