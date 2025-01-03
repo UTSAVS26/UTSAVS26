@@ -117,8 +117,6 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="55" height="55"/></a>
 </p>
 
-![image](https://github.com/user-attachments/assets/17814c25-e1f7-4d58-b0b1-5fa8528c2485)
-
 ## :zap: My GitHub-Quine Stats 🖤
 <table align="center">
   <tr align="center">
