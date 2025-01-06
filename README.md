@@ -49,6 +49,10 @@
 
 <hr>
 
+<a href="https://gitroll.io/profile/ugJr7p9ccLpYP8Ng9AT4GxjBhPuL2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ugJr7p9ccLpYP8Ng9AT4GxjBhPuL2?theme=dark" alt="GitRoll Profile Badge"/></a>
+
+<hr>
+
 ## :globe_with_meridians: Open Source Contributions 🌟
 
 <table align="center">
