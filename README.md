@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&pause=600&color=FFA500&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+I'm+Utsav+Singhal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=600&color=FFA500&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Hi+I'm+Utsav+Singhal)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=600&color=FFA500&center=true&vCenter=true&width=2000&height=200&lines=AI+%2F+ML+Specialist;Data+Science+Enthusiast;Machine+Learning+Engineer;Innovative+Solution+Creator)](https://git.io/typing-svg)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
 <p align='center'>
   <b><i>Let's connect! Find me on the web.</i></b>
@@ -20,16 +24,17 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## :zap: About Me 👦
-- 🌱 I’m currently deepening my expertise in **Artificial Intelligence**, **Machine Learning**, and **Neural Networks**, with a focus on advanced algorithms, model optimization, and innovative applications.
+## 🌟 About Me
 
-- 🔍 My recent projects involve **Generative Adversarial Networks (GANs)** for image augmentation, **Convolutional Neural Networks (CNNs)** for image recognition, and **end-to-end machine learning pipelines** for scalable solutions.
+> *"Transforming ideas into intelligent solutions through the power of AI and quantum computing"*
 
-- 📈 I have a strong foundation in **data science and analytics**, including data wrangling, visualization, and leveraging libraries such as **Pandas, NumPy, and Scikit-learn** to derive actionable insights.
+I'm a passionate **AI/ML Engineer** and **Quantum Computing Researcher** currently pursuing B.Tech in AI & ML at VIPS-TC with a stellar **8.83 CGPA** (University Rank: 30). My journey revolves around pushing the boundaries of artificial intelligence and quantum technologies to solve real-world challenges.
 
-- 💬 Ask me about **AI/ML algorithms**, **data science techniques**, **model optimization**, **MLOps**, **computer vision**, and **natural language processing**. I’m also eager to discuss **real-world applications** of AI and how to drive impactful solutions.
-
-- 🌍 I actively contribute to the AI/ML community through **workshops**, **knowledge sharing**, and **collaborative projects**, aiming to foster learning and innovation.
+### 🎯 Current Focus
+- 🔬 **Post-Quantum Cryptography** research at QRACE & EGREEN QUANTA
+- 🧠 **Advanced GAN architectures** for medical imaging
+- ⚛️ **Quantum-resistant cryptographic protocols** using Qiskit
+- 🌐 **End-to-end ML pipelines** for scalable AI solutions
 
 - 📫 How to reach me: **[utsavsinghal26@gmail.com](mailto:utsavsinghal26@gmail.com)**
 
@@ -49,77 +54,44 @@
 
 <hr>
 
-<a href="https://gitroll.io/profile/ugJr7p9ccLpYP8Ng9AT4GxjBhPuL2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ugJr7p9ccLpYP8Ng9AT4GxjBhPuL2?theme=dark" alt="GitRoll Profile Badge"/></a>
+## 🛠️ Tech Arsenal
 
-<hr>
+<div align="center">
 
-## :globe_with_meridians: Open Source Contributions 🌟
+### 🧠 AI/ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<table align="center">
-  <tr>
-    <th>Role</th>
-    <th>Project</th>
-    <th>Badge</th>
-  </tr>
-  <tr>
-    <td>🚀 Contributor</td>
-    <td><a href="#">SSOC (Social Summer of Code) Season 3</a>: Top contributor in the </a><strong><a href="https://github.com/UTSAVS26/AI-Code">AI-Code</a></strong> repository, contributing to AI/ML-related projects and mentoring new participants in their open-source journey.</td>
-    <td><img src="https://github.com/user-attachments/assets/d6a1cf2c-d0d5-4ea2-8639-81a755ae1ec7" alt="SSOC Badge" width="150" height="100"/></td>
-  </tr>
-  <tr>
-    <td>👨‍💻 Project Admin</td>
-    <td><a href="https://gs-wob.vercel.app/wob">WoB'24 (Winter of Blockchain)</a>: Leading and maintaining the <strong><a href="https://github.com/UTSAVS26/PyVerse">PyVerse</a></strong> project, managing contributors, and building innovative blockchain-based web solutions for decentralized applications.</td>
-    <td><img src="https://github.com/user-attachments/assets/970b3033-e6cf-4b01-b93b-b9205f9e73f2" alt="WoB'24 Badge" width="150" height="100"/></td>
-  </tr>
-  <tr>
-    <td>👨‍💻 Project Admin</td>
-    <td><a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code</a>: Leading and maintaining the <strong><a href="https://github.com/UTSAVS26/PyVerse">PyVerse</a></strong> project and <strong><a href="https://github.com/UTSAVS26/PySnippets">PySnippets</a></strong> project, managing contributors, and building innovative blockchain-based web solutions for decentralized applications.</td>
-  </tr>
-</table>
+### ⚛️ Quantum Computing
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![Quantum](https://img.shields.io/badge/Quantum_Computing-4B0082?style=for-the-badge&logo=quantum&logoColor=white)
 
-[![An image of @utsavs26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utsavs26)](https://holopin.io/@utsavs26)
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<h2>Skills</h2>
-<p>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="55" height="55"/></a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="55" height="55"/></a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="55" height="55"/></a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html" width="55" height="55"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css" width="55" height="55"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="js" width="55" height="55"/></a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="55" height="55"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="55" height="55"/></a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="55" height="55"/></a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="55" height="55"/></a>
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="55" height="55"/></a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="55" height="55"/></a>
-    <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="55" height="55"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="55" height="55"/></a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="55" height="55"/></a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="55" height="55"/></a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="55" height="55"/></a>
-    <a href="https://spacy.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="55" height="55"/></a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="opencv" width="55" height="55"/></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="55" height="55"/></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="55" height="55"/></a>
-    <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/mlflow/mlflow/blob/master/docs/source/_static/MLflow-logo-final-black.png" alt="mlflow" width="110" height="55"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="55" height="55"/></a>
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="55" height="55"/></a>
-    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" width="55" height="55"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="55" height="55"/></a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="github" width="55" height="55"/></a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda" alt="github" width="55" height="55"/></a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="55" height="55"/></a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="55" height="55"/></a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="discord" width="55" height="55"/></a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=eclipse" alt="eclipse" width="55" height="55"/></a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="55" height="55"/></a>
-</p>
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+</div>
 
 ## :zap: My GitHub-Quine Stats 🖤
 <table align="center">
@@ -154,7 +126,9 @@
 <div align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/UTSAVS26?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true">
 </div>
+<hr>
 
+[![An image of @utsavs26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utsavs26)](https://holopin.io/@utsavs26)
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
