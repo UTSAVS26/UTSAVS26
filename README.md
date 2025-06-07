@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/utsavsinghal2604/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-Click-%230e75b6" alt="LinkedIn" /></a>
   <a href="mailto:utsavsinghal26@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/Gmail-Click-%230e75b6" alt="Gmail" /></a>
-  <a href="https://utsavs26.tech/" target="_blank"><img height="30" src="https://img.shields.io/badge/Website-Click-%230e75b6" alt="Website" /></a>
+  <a href="https://portfolio-website-utsav.vercel.app/" target="_blank"><img height="30" src="https://img.shields.io/badge/Website-Click-%230e75b6" alt="Website" /></a>
 </p>
 
 <table align="center">
