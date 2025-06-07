@@ -40,18 +40,6 @@ I'm a passionate **AI/ML Engineer** and **Quantum Computing Researcher** current
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<h2 align="center">Skills</h2>
-<h3>
-<ul>
-  <li>🤖 Machine Learning</li>
-  <li>🧠 Deep Learning</li>
-  <li>💬 Natural Language Processing</li>
-  <li>👁️‍🗨️ Computer Vision</li>
-  <li>🚨 Anomaly Detection</li>
-  <li>🤖🧠💬👁️‍🗨️🚨 Artificial Intelligence</li>
-</ul>
-</h3>
-
 <hr>
 
 ## 🛠️ Tech Arsenal
@@ -93,11 +81,6 @@ I'm a passionate **AI/ML Engineer** and **Quantum Computing Researcher** current
 
 </div>
 
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
-
-<div align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/UTSAVS26?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true">
-</div>
 <hr>
 
 [![An image of @utsavs26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utsavs26)](https://holopin.io/@utsavs26)
@@ -105,30 +88,31 @@ I'm a passionate **AI/ML Engineer** and **Quantum Computing Researcher** current
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## :zap: My GitHub Stats 📊
-<div align="center">
-  <a href="https://github.com/UTSAVS26">
-    <!-- Trophies -->
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=UTSAVS26&theme=onestar&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" /> <br />
-    <!-- Streak Counter -->
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UTSAVS26&theme=nightowl&hide_border=true&fire=DD2727" height="250em" alt="Streak Counter" /> <br />
-    <!-- Most Used Languages -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UTSAVS26&color=0e75b6&style=flat&theme=radical&hide_border=true" height="320em" alt="Most used languages" />
-    <!-- Contributor Stats -->
-    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=UTSAVS26&limit=10&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="320em" alt="Contributor Stats" /> <br />
-    <!-- Stats -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UTSAVS26&theme=2077" height="210em" alt="Stats" />
-    <!-- Top languages by commit -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UTSAVS26&theme=2077" height="210em" alt="Top languages by commit" />
-    <!-- Top languages by repo -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UTSAVS26&theme=2077" height="210em" alt="Top languages by repo" />
-    <!-- Histogram of Commits -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UTSAVS26&theme=2077" height="210em" alt="Histogram of Commits" />
-    <!-- Graph of Commits -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UTSAVS26&theme=2077" height="210em" alt="Graph of Commits" />
-  </a>
-</div>
-
+<details>
+  <summary><h2>:zap: My GitHub Stats 📊</h2></summary>
+  <div align="center">
+    <a href="https://github.com/UTSAVS26">
+      <!-- Trophies -->
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=UTSAVS26&theme=onestar&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" /> <br />
+      <!-- Streak Counter -->
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UTSAVS26&theme=nightowl&hide_border=true&fire=DD2727" height="250em" alt="Streak Counter" /> <br />
+      <!-- Most Used Languages -->
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UTSAVS26&color=0e75b6&style=flat&theme=radical&hide_border=true" height="320em" alt="Most used languages" />
+      <!-- Contributor Stats -->
+      <img align="center" src="https://github-contributor-stats.vercel.app/api?username=UTSAVS26&limit=10&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="320em" alt="Contributor Stats" /> <br />
+      <!-- Stats -->
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UTSAVS26&theme=2077" height="210em" alt="Stats" />
+      <!-- Top languages by commit -->
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UTSAVS26&theme=2077" height="210em" alt="Top languages by commit" />
+      <!-- Top languages by repo -->
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UTSAVS26&theme=2077" height="210em" alt="Top languages by repo" />
+      <!-- Histogram of Commits -->
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UTSAVS26&theme=2077" height="210em" alt="Histogram of Commits" />
+      <!-- Graph of Commits -->
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UTSAVS26&theme=2077" height="210em" alt="Graph of Commits" />
+    </a>
+  </div>
+</details>
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
