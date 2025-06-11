@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=600&color=FFA500&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Hi+I'm+Utsav+Singhal)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=600&color=FFA500&center=true&vCenter=true&width=2000&height=200&lines=AI+%2F+ML+Specialist;Data+Science+Enthusiast;Machine+Learning+Engineer;Innovative+Solution+Creator)](https://git.io/typing-svg)
 
@@ -15,6 +16,7 @@
   <a href="https://portfolio-website-utsav.vercel.app/" target="_blank"><img height="30" src="https://img.shields.io/badge/Website-Click-%230e75b6" alt="Website" /></a>
 </p>
 
+<img height="180em" src="https://github-widgetbox.vercel.app/api/profile?username=UtsavS26&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
 <table align="center">
   <tr>
     <td>You are visitor</td>
