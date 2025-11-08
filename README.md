@@ -56,7 +56,8 @@
   <br>
   <div align="center">
     <a href="https://github.com/UTSAVS26">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=UTSAVS26&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Utsav's GitHub Stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=UTSAVS26&show_icons=true&theme=radical&hide_border=true&rank_icon=github&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Utsav's GitHub Stats" />
+      <img align="center" src="https://github-contributor-stats.vercel.app/api?username=UTSAVS26&limit=10&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="320em" alt="Contributor Stats" /> <br />
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UTSAVS26&theme=nightowl&hide_border=true&fire=DD2727" alt="Streak Counter" />
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UTSAVS26&layout=compact&theme=radical&hide_border=true" alt="Most used languages" />
     </a>
