@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="260" viewBox="0 0 840 260" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f0c29"/><stop offset="1" stop-color="#16213e"/></linearGradient></defs>
+<rect width="840" height="260" rx="16" fill="url(#bg)" stroke="#2a3558"/>
+<text x="28" y="40" fill="#e6edf3" font-size="18" font-weight="600">@UTSAVS26 · live from GitHub</text>
+<text x="28" y="100" fill="#24c6dc" font-size="38" font-weight="700">248</text>
+<text x="28" y="122" fill="#8b98b8" font-size="11" letter-spacing="1.5">STARS</text>
+<text x="185" y="100" fill="#7c5cff" font-size="38" font-weight="700">387</text>
+<text x="185" y="122" fill="#8b98b8" font-size="11" letter-spacing="1.5">FORKS</text>
+<text x="342" y="100" fill="#ff8a5c" font-size="38" font-weight="700">20</text>
+<text x="342" y="122" fill="#8b98b8" font-size="11" letter-spacing="1.5">OSS PRs MERGED</text>
+<text x="498" y="100" fill="#3ddc97" font-size="38" font-weight="700">104</text>
+<text x="498" y="122" fill="#8b98b8" font-size="11" letter-spacing="1.5">REPOS</text>
+<text x="655" y="100" fill="#f5c542" font-size="38" font-weight="700">91</text>
+<text x="655" y="122" fill="#8b98b8" font-size="11" letter-spacing="1.5">FOLLOWERS</text>
+<text x="28" y="165" fill="#8b98b8" font-size="11" letter-spacing="1.5">CODE BY LANGUAGE (AI / SYSTEMS FOCUS)</text>
+<rect x="28.0" y="176" width="740.7" height="10" rx="3" fill="#24c6dc"/>
+<rect x="770.7" y="176" width="39.3" height="10" rx="3" fill="#7c5cff"/>
+<circle cx="33" cy="214" r="5" fill="#24c6dc"/>
+<text x="44" y="218" fill="#e6edf3" font-size="13">Python <tspan fill="#8b98b8">94.7%</tspan></text>
+<circle cx="425" cy="214" r="5" fill="#7c5cff"/>
+<text x="436" y="218" fill="#e6edf3" font-size="13">C++ <tspan fill="#8b98b8">5.3%</tspan></text>
+<text x="812" y="246" fill="#55608a" font-size="10" text-anchor="end">updated 2026-11-19</text>
+</svg>
