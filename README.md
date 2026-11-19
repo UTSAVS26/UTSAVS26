@@ -38,7 +38,7 @@
 <td width="50%"><a href="https://github.com/UTSAVS26/PySnippets"><img src="assets/project-2.svg" alt="PySnippets" width="100%"/></a></td>
 </tr><tr>
 <td width="50%"><a href="https://github.com/UTSAVS26/DungeonLM"><img src="assets/project-3.svg" alt="DungeonLM" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/UTSAVS26/Capsule-Vision-2024-Challenge"><img src="assets/project-4.svg" alt="Capsule-Vision-2024-Challenge" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/UTSAVS26/NLP-Algorithms"><img src="assets/project-4.svg" alt="NLP-Algorithms" width="100%"/></a></td>
 </tr></table>
 <!--END_SECTION:projects-->
 
