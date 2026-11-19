@@ -133,10 +133,12 @@ def activity():
         if t == "PushEvent" and p.get("size"):
             msg = f"Pushed {p['size']} commit{'s' if p['size'] > 1 else ''} to {link}"
         elif t == "PullRequestEvent":
+            n = p["pull_request"]["number"]
             verb = "Merged" if p["pull_request"].get("merged") else p["action"].capitalize()
-            msg = f"{verb} PR [#{p['pull_request']['number']}]({p['pull_request']['html_url']}) in {link}"
+            msg = f"{verb} PR [#{n}](https://github.com/{repo}/pull/{n}) in {link}"
         elif t == "IssuesEvent" and p["action"] in ("opened", "closed"):
-            msg = f"{p['action'].capitalize()} issue [#{p['issue']['number']}]({p['issue']['html_url']}) in {link}"
+            n = p["issue"]["number"]
+            msg = f"{p['action'].capitalize()} issue [#{n}](https://github.com/{repo}/issues/{n}) in {link}"
         elif t == "CreateEvent" and p.get("ref_type") == "repository":
             msg = f"Created {link}"
         else:
