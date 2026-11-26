@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="96" viewBox="0 0 900 96" role="img" aria-label="End of profile">
+<path d="M0 40.5H900" stroke="#2B3038"/>
+<g stroke="#F2F3F5" stroke-width="3" fill="none"><path d="M0 40H900" stroke="#2B3038"/><path d="M0 28V52"/><path d="M898.5 28V52"/></g>
+<circle cx="876" cy="40" r="7" fill="#FF6A4D"/>
+<text x="0" y="78" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#A2A8B2">utsav-singhal.is-a.dev</text>
+<text x="900" y="78" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#A2A8B2">100% scrolled</text>
+</svg>

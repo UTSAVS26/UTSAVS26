@@ -1,36 +1,49 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Utsav Singhal, AI/ML Research Engineer" width="100%"/>
-
-<br/><br/>
-
-<a href="https://utsav-singhal.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-24c6dc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;<a href="https://www.linkedin.com/in/utsavsinghal2604/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://www.kaggle.com/utsavsinghal2604"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;<a href="https://orcid.org/0009-0007-3272-7668"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>&nbsp;<a href="mailto:utsavsinghal26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img alt="Utsav Singhal, AI/ML Research Engineer" src="assets/header-dark.svg" width="100%">
 
 </div>
 
-<br/>
+I build intelligent systems and research-driven engineering solutions, working across applied AI, computational systems and emerging technologies. I like turning hard research problems into practical, reusable systems.
 
-## About
+**[Portfolio](https://utsav-singhal.is-a.dev)** · **[CV](https://utsav-singhal.is-a.dev/Utsav_Singhal_CV.pdf)** · **[LinkedIn](https://www.linkedin.com/in/utsavsinghal2604/)** · **[ORCID](https://orcid.org/0009-0007-3272-7668)** · **[Kaggle](https://www.kaggle.com/utsavsinghal2604)**
 
-*Research-driven thinking. Engineering-oriented execution.*
+<img alt="Now" src="assets/now-dark.svg" width="100%">
 
-- 💼 **AI/ML Research Engineer at M3AI** (2026 to present), building AI-powered financial analysis for commercial real estate: document extraction with AWS Textract and LLMs, plus reconciliation and validation of rent roll and cash flow data
-- 🎓 B.Tech in AI & ML, VIPS-TC (GGSIPU), **9.2 CGPA**, university rank 25
-- 🤖 Building **LLM agents** and evaluation frameworks (DungeonLM, Verity)
-- ⚡ Exploring **GPU and AI infrastructure**, evaluation and reliability frameworks, and **post-quantum cryptography** with Qiskit
-- 🔓 Open to research collaborations and engineering roles
+- **AI/ML Research Engineer at M3AI.** Turning commercial real estate financial documents into structured, validated financial models, with AWS Textract, LLM extraction and deterministic reconciliation.
+- **On the side:** Verity (reliability of research code) and GPU Engine (memory-efficient kernels in Triton).
 
-## Research & Recognition
+<img alt="Focus" src="assets/focush-dark.svg" width="100%">
 
-- 📄 **Published at Springer and AIP:** EEG brain activity classification (ICDAM 2024), piezoelectric materials for renewable energy (IC-AMSI 2024), BELKA binding affinity prediction (ICAMSI 2024)
-- 🥉 **NeurIPS BELKA** bronze, 118th of 1,946 participants, and Kaggle top 10%
-- 🛡️ **Cyber Security Grand Challenge 2.0** winner (idea stage)
+<img alt="Animated figures cycling through my focus areas: applied AI, GPU computing, quantum computing, post-quantum cryptography, reliable research" src="assets/focus-dark.svg" width="100%">
 
-## Stack
+<img alt="Standing" src="assets/standingh-dark.svg" width="100%">
 
-<img src="assets/stack.svg" alt="Full tech stack: languages, ML, ML frameworks, generative AI, agentic AI, document intelligence, GPU infrastructure, quantum and cryptography, engineering tools" width="100%"/>
+<img alt="Top 6% in NeurIPS BELKA, top 10% on Kaggle, CGPA 9.2 out of 10, three publications and one registered design" src="assets/standing-dark.svg" width="100%">
 
-## Featured Projects
+<img alt="Research" src="assets/research-dark.svg" width="100%">
+
+- **Exploring Human Brain Activity Classification**  
+  <sub>ICDAM 2024 · Springer LNNS</sub>
+- **Transforming Renewable Energy: Piezoelectric Substances**  
+  <sub>IC-AMSI 2024 · Springer Proceedings in Energy</sub>
+- **Unlocking drug discovery potential with BELKA**  
+  <sub>AIP Conference Proceedings, Vol. 3362</sub>
+- **Digital Device for Vedic Knowledge Analysis**  
+  <sub>Registered design No. 447520-001 · June 2025</sub>
+
+<img alt="Stack" src="assets/stack-dark.svg" width="100%">
+
+| | |
+| :-- | :-- |
+| **Languages** | `Python` `SQL` `C/C++` `Java` |
+| **AI / ML** | `PyTorch` `TensorFlow` `scikit-learn` `LLMs` `RAG` |
+| **Document AI** | `AWS Textract` `Azure OpenAI` `Pandas` `OpenPyXL` |
+| **GPU** | `Triton` `NVIDIA GPUs` `Memory optimization` |
+| **Quantum & crypto** | `Qiskit` `ECC` `PQC` `NIST standards` |
+| **Ship** | `Docker` `AWS` `FastAPI` `Git` |
+
+<img alt="Featured projects" src="assets/projectsh-dark.svg" width="100%">
 
 <!--START_SECTION:projects-->
 <table><tr>
@@ -42,30 +55,16 @@
 </tr></table>
 <!--END_SECTION:projects-->
 
-## Recent Activity
+<img alt="GitHub, live" src="assets/liveh-dark.svg" width="100%">
 
-<!--START_SECTION:activity-->
-- Merged PR [#4](https://github.com/UTSAVS26/AgentPulse/pull/4) in [AgentPulse](https://github.com/UTSAVS26/AgentPulse) · <sub>13d ago</sub>
-- Opened PR [#4](https://github.com/UTSAVS26/AgentPulse/pull/4) in [AgentPulse](https://github.com/UTSAVS26/AgentPulse) · <sub>13d ago</sub>
-- Merged PR [#3](https://github.com/UTSAVS26/AgentPulse/pull/3) in [AgentPulse](https://github.com/UTSAVS26/AgentPulse) · <sub>15d ago</sub>
-- Opened PR [#3](https://github.com/UTSAVS26/AgentPulse/pull/3) in [AgentPulse](https://github.com/UTSAVS26/AgentPulse) · <sub>15d ago</sub>
-- Merged PR [#2](https://github.com/UTSAVS26/AgentPulse/pull/2) in [AgentPulse](https://github.com/UTSAVS26/AgentPulse) · <sub>15d ago</sub>
-- Opened PR [#2](https://github.com/UTSAVS26/AgentPulse/pull/2) in [AgentPulse](https://github.com/UTSAVS26/AgentPulse) · <sub>15d ago</sub>
-<!--END_SECTION:activity-->
+<img alt="Live GitHub stats" src="assets/stats.svg" width="100%">
 
-## GitHub, live
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/UTSAVS26/UTSAVS26/output/snake-dark.svg" width="100%">
 
-<div align="center">
+<sub>Projects, the stats card and the snake are generated by GitHub Actions in this repo.</sub>
 
-<img src="assets/stats.svg" alt="Live GitHub stats" width="100%"/>
+<img alt="Contact" src="assets/contact-dark.svg" width="100%">
 
-<br/>
+Email [utsavsinghal26@gmail.com](mailto:utsavsinghal26@gmail.com) for research collaborations, engineering roles or open-source work.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UTSAVS26/UTSAVS26/output/snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/UTSAVS26/UTSAVS26/output/snake.svg" width="100%"/>
-</picture>
-
-<sub>Everything above is generated by GitHub Actions in this repo. Happy to say hi: research collaborations and open source welcome.</sub>
-
-</div>
+<img alt="End of profile" src="assets/footer-dark.svg" width="100%">

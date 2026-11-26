@@ -1,32 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="260" viewBox="0 0 840 260" font-family="Segoe UI,Helvetica,Arial,sans-serif">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f0c29"/><stop offset="1" stop-color="#16213e"/></linearGradient></defs>
-<rect width="840" height="260" rx="16" fill="url(#bg)" stroke="#2a3558"/>
-<text x="28" y="40" fill="#e6edf3" font-size="18" font-weight="600">@UTSAVS26 · live from GitHub</text>
-<text x="28" y="100" fill="#24c6dc" font-size="38" font-weight="700">276</text>
-<text x="28" y="122" fill="#8b98b8" font-size="11" letter-spacing="1.5">STARS</text>
-<text x="185" y="100" fill="#7c5cff" font-size="38" font-weight="700">411</text>
-<text x="185" y="122" fill="#8b98b8" font-size="11" letter-spacing="1.5">FORKS</text>
-<text x="342" y="100" fill="#ff8a5c" font-size="38" font-weight="700">20</text>
-<text x="342" y="122" fill="#8b98b8" font-size="11" letter-spacing="1.5">OSS PRs MERGED</text>
-<text x="498" y="100" fill="#3ddc97" font-size="38" font-weight="700">104</text>
-<text x="498" y="122" fill="#8b98b8" font-size="11" letter-spacing="1.5">REPOS</text>
-<text x="655" y="100" fill="#f5c542" font-size="38" font-weight="700">91</text>
-<text x="655" y="122" fill="#8b98b8" font-size="11" letter-spacing="1.5">FOLLOWERS</text>
-<text x="28" y="165" fill="#8b98b8" font-size="11" letter-spacing="1.5">CODE BY LANGUAGE (AI / SYSTEMS FOCUS)</text>
-<rect x="28.0" y="176" width="713.5" height="10" rx="3" fill="#24c6dc"/>
-<rect x="743.5" y="176" width="57.9" height="10" rx="3" fill="#7c5cff"/>
-<rect x="803.4" y="176" width="1.2" height="10" rx="3" fill="#ff8a5c"/>
-<rect x="806.6" y="176" width="1.2" height="10" rx="3" fill="#3ddc97"/>
-<rect x="809.8" y="176" width="1.0" height="10" rx="3" fill="#f5c542"/>
-<circle cx="33" cy="214" r="5" fill="#24c6dc"/>
-<text x="44" y="218" fill="#e6edf3" font-size="13">Python <tspan fill="#8b98b8">91.0%</tspan></text>
-<circle cx="190" cy="214" r="5" fill="#7c5cff"/>
-<text x="201" y="218" fill="#e6edf3" font-size="13">Solidity <tspan fill="#8b98b8">7.6%</tspan></text>
-<circle cx="347" cy="214" r="5" fill="#ff8a5c"/>
-<text x="358" y="218" fill="#e6edf3" font-size="13">Tcl <tspan fill="#8b98b8">0.4%</tspan></text>
-<circle cx="503" cy="214" r="5" fill="#3ddc97"/>
-<text x="514" y="218" fill="#e6edf3" font-size="13">C++ <tspan fill="#8b98b8">0.4%</tspan></text>
-<circle cx="660" cy="214" r="5" fill="#f5c542"/>
-<text x="671" y="218" fill="#e6edf3" font-size="13">Java <tspan fill="#8b98b8">0.3%</tspan></text>
-<text x="812" y="246" fill="#55608a" font-size="10" text-anchor="end">updated 2026-11-25</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="260" viewBox="0 0 840 260">
+<style>.sans{font-family:Onest,Inter,'Segoe UI',Helvetica,Arial,sans-serif}.mono{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.bg{fill:#14161A;stroke:#2B3038}.ink{fill:#F2F3F5}.inkf{fill:#F2F3F5}.mut{fill:#A2A8B2}.red{fill:#FF6A4D}.ln{stroke:#2B3038;fill:none}</style>
+<rect class="bg" x=".5" y=".5" width="839" height="259" rx="4"/>
+<text class="mono mut" x="28" y="42" font-size="13" letter-spacing="1.2">@UTSAVS26 / LIVE FROM GITHUB</text>
+<circle class="red" cx="808" cy="38" r="5"/>
+<text class="sans ink" x="28" y="108" font-size="38" font-weight="700" letter-spacing="-1">278</text>
+<text class="mono mut" x="28" y="128" font-size="11" letter-spacing="1.2">STARS</text>
+<path class="ln" d="M171 70V132"/>
+<text class="sans ink" x="185" y="108" font-size="38" font-weight="700" letter-spacing="-1">411</text>
+<text class="mono mut" x="185" y="128" font-size="11" letter-spacing="1.2">FORKS</text>
+<path class="ln" d="M328 70V132"/>
+<text class="sans ink" x="342" y="108" font-size="38" font-weight="700" letter-spacing="-1">20</text>
+<text class="mono mut" x="342" y="128" font-size="11" letter-spacing="1.2">OSS PRs MERGED</text>
+<path class="ln" d="M484 70V132"/>
+<text class="sans ink" x="498" y="108" font-size="38" font-weight="700" letter-spacing="-1">104</text>
+<text class="mono mut" x="498" y="128" font-size="11" letter-spacing="1.2">REPOS</text>
+<path class="ln" d="M641 70V132"/>
+<text class="sans ink" x="655" y="108" font-size="38" font-weight="700" letter-spacing="-1">91</text>
+<text class="mono mut" x="655" y="128" font-size="11" letter-spacing="1.2">FOLLOWERS</text>
+<text class="mono mut" x="28" y="170" font-size="11" letter-spacing="1.2">CODE BY LANGUAGE (AI / SYSTEMS FOCUS)</text>
+<rect class="red" fill-opacity="1" x="28.0" y="180" width="771.4" height="10" rx="2"/>
+<rect class="inkf" fill-opacity="0.8" x="801.4" y="180" width="3.4" height="10" rx="2"/>
+<rect class="inkf" fill-opacity="0.55" x="806.8" y="180" width="1.0" height="10" rx="2"/>
+<rect class="inkf" fill-opacity="0.38" x="809.7" y="180" width="1.0" height="10" rx="2"/>
+<rect class="red" fill-opacity="1" x="28" y="209" width="10" height="10" rx="2"/>
+<text class="sans ink" x="46" y="218" font-size="13">Python <tspan class="mono mut" font-size="12">98.7%</tspan></text>
+<rect class="inkf" fill-opacity="0.8" x="224" y="209" width="10" height="10" rx="2"/>
+<text class="sans ink" x="242" y="218" font-size="13">Makefile <tspan class="mono mut" font-size="12">0.7%</tspan></text>
+<rect class="inkf" fill-opacity="0.55" x="420" y="209" width="10" height="10" rx="2"/>
+<text class="sans ink" x="438" y="218" font-size="13">Dockerfile <tspan class="mono mut" font-size="12">0.4%</tspan></text>
+<rect class="inkf" fill-opacity="0.38" x="616" y="209" width="10" height="10" rx="2"/>
+<text class="sans ink" x="634" y="218" font-size="13">Shell <tspan class="mono mut" font-size="12">0.3%</tspan></text>
+<text class="mono mut" x="812" y="246" font-size="10" text-anchor="end">updated 2026-11-26</text>
 </svg>

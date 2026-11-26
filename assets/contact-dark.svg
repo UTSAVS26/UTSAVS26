@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70" role="img" aria-label="Contact">
+<text x="0" y="22" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.2" fill="#FF6A4D">08 · contact</text>
+<text x="0" y="54" font-family="Onest, Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-.8" fill="#F2F3F5">Contact</text>
+<path d="M0 66.5H900" stroke="#2B3038"/><path d="M0 66.5H44" stroke="#FF6A4D" stroke-width="2"/>
+</svg>
